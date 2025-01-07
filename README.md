@@ -1,7 +1,7 @@
 ---
 title: "About this App"
 author: "Johnny Powell"
-date: "`12/12/24`"
+date: "12/12/24"
 output: html_document
 ---
 ## About
